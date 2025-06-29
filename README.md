@@ -1,0 +1,2 @@
+# AppwriteAuth
+Appwrite auth code
